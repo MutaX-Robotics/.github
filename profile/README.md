@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-# 🤖 MutaX Solutions  
+# MutaX Solutions  
 **Tomorrow’s tools, working today.**  
 
 *Open-source robotics and automation for mobile robots & manipulators, built with precision and scalability in mind.*  
 
 ---
 
-## 🚀 Who We Are  
+## Who We Are  
 We’re a robotics team building **adaptive automation solutions**—specializing in:  
 - **Mobile robotics** (AMRs, logistics bots)  
 - **Manipulator control**
@@ -15,7 +15,7 @@ We’re a robotics team building **adaptive automation solutions**—specializin
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Robotics Middleware**: ROS 2, MoveIt  
 - **Perception**: OpenCV, LiDAR, NVIDIA Isaac  
 - **Cloud**: AWS IoT, MQTT, Docker  
