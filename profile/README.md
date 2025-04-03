@@ -26,6 +26,6 @@ We’re a robotics team building **adaptive automation solutions**—specializin
 ## 📫 Connect With Us  
 - **Website**: [mutaxsolutions.com](https://mutaxsolutions.com) *(Coming soon!)*  
 - **Email**: solutions.mutax@gmail.com
-- **Twitter**: [@mutax_robotics](https://twitter.com/mutax_robotics)  
+- **LinkedIn**: [mutax_robotics](https://www.linkedin.com/company/mutax-robotics/ )  
 
 ---
