@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# MutaX Solutions  
+# MutaX Robotics  
 **Tomorrow’s tools, working today.**  
 
 *Open-source robotics and automation for mobile robots & manipulators, built with precision and scalability in mind.*  
